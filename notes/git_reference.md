@@ -60,9 +60,9 @@ git show HEAD
 
 **Important:** `git commit -am` does not stage new, untracked files. Use `git add` first when adding new files.
 
-For message conventions, see [Conventional Commits](conventional_commits.md).
+For message conventions, see [Conventional Commits](./conventional_commits.md).
 
-For detailed commit correction and recovery procedures, see [Undoing Changes](undo_changes.md) when that guide is available.
+For detailed commit correction and recovery procedures, see [Undoing Changes](./undo_changes.md) when that guide is available.
 
 ## 5. Remote Repositories
 
@@ -151,9 +151,9 @@ git rm --cached file.txt
 
 ## Further Reading
 
-- [Create or Clone a Repository](create_a_repo.md)
-- [Regular Workflow](regular_workflow.md)
-- [Terminal Commands](terminal_commands.md)
-- [Conventional Commits](conventional_commits.md)
-- [Branches and Merging](branches_and_merging.md) *(planned)*
-- [Undoing Changes](undo_changes.md) *(planned)*
+- [Create or Clone a Repository](./create_a_repo.md)
+- [Regular Workflow](./regular_workflow.md)
+- [Terminal Commands](./terminal_commands.md)
+- [Conventional Commits](./conventional_commits.md)
+- [Branches and Merging](./branches_and_merging.md)
+- [Undoing Changes](./undo_changes.md)
